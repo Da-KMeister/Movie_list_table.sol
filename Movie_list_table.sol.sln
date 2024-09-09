@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Movie_list_table", "Movie_list_table\Movie_list_table.pyproj", "{E9D83B49-A5AD-4B0E-8DA5-D410362462DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D83B49-A5AD-4B0E-8DA5-D410362462DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D83B49-A5AD-4B0E-8DA5-D410362462DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F469F1-6A20-413E-9D30-65719770B2BB}
+	EndGlobalSection
+EndGlobal
